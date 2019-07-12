@@ -1,4 +1,4 @@
-# Swift image loadere extension
+# Swift image loader extension
 
 A simple UImageView extension responsible to easily handle asynchronous image loading. Good solution to avoid external dependencies.
 
